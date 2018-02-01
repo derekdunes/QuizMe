@@ -6,30 +6,3 @@ It uses firebase to store and update questions for the user to view and choose f
 # Guide To Implementation
 1. Design UI for the App on Figma(https://www.figma.com/file/GIrFQvOSjkPEl59NZNQqrUfd/QuizMe)
 2. Plan the Question JSON tree for your Firebase database
-Sample Tree
-  {
-	"nigeria":[
-		{
-			"question":"How many colors are in the Nigerian Flag",
-			"answer":"2",
-			"options":[
-				"1",
-				"3",
-				"2",
-				"5"
-			]
-		}	
-	],
-	"technology":[
-		{
-			"question":"How many colors are in the Nigerian Flag",
-			"answer":"2",
-			"options":[
-				"1",
-				"3",
-				"2",
-				"5"
-			]
-		}	
-	]	
-}
