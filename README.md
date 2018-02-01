@@ -6,5 +6,5 @@ It uses firebase to store and update questions for the user to view and choose f
 # Guide To Implementation
 1. Design UI for the App on Figma(https://www.figma.com/file/GIrFQvOSjkPEl59NZNQqrUfd/QuizMe)
 2. Plan the Question JSON tree for your Firebase database (https://github.com/derekdunes/QuizMe/blob/master/QuizMe/quiz.json)
-3. Create a firebase project at firebase.google.com
+3. Create Your firebase project at (https://firebase.google.com)
 
